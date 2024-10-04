@@ -123,7 +123,7 @@ function Contact() {
       </div>
       <div className='contact-container'>
         <p>📞 0813 9993 0498</p>
-        <p>🏠 Gran Rubina Business Park Generali Tower Lt. 1 Unit B Kawasan Rasuna Epicentrum, Jl. H. R. Rasuna Said, RT.2/RW.5, Karet Kuningan, Kuningan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12960</p>
+        <p>🏠 Gran Rubina Business Park Generali Tower Lt. 1 Unit B Kawasan Rasuna Epicentrum</p>
         <img className='location-img' src={location} alt='location' />
       </div>
     </div>
