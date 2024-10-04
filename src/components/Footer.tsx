@@ -7,8 +7,8 @@ export function Footer() {
           ❤️
         </span>{' '}
         by{' '}
-        <a href='https://github.com/ccrsxx' target='_blank' rel='noreferrer'>
-          ccrsxx
+        <a href='https://www.facebook.com/@masgedo.dev/?mibextid=ZbWKwL' target='_blank' rel='noreferrer'>
+          Gedo
         </a>
       </p>
     </footer>
