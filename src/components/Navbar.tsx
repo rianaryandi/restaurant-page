@@ -7,7 +7,7 @@ export function Navbar({ currentPage, handleNavClick }: NavbarProps) {
   return (
     <nav className='navbar'>
       <a href='https://ccrsxx.github.io/restaurant-page' className='nav-header'>
-        Delicious Ramen
+        Delicious Pho Noodle Soup
       </a>
       <ul className='nav-links'>
         <li>
