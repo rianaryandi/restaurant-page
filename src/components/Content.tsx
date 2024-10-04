@@ -105,62 +105,8 @@ function Menu() {
           <p className='card-text'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
           </p>
-          <div className='menu-card'>
-          <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>PHO SA TE CA VIEN</h3>
-          <p className='card-text'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
-          </p>
-        </div>
-          <div className='menu-card'>
-          <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>PHO TRON DUI GA NUONG</h3>
-          <p className='card-text'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
-          </p>
          </div>
-          <div className='menu-card'>
-          <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>PHO SA TE HAI SAN</h3>
-          <p className='card-text'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
-          </p>
-        </div>
-          <div className='menu-card'>
-          <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>PHO SA TE VEGAN</h3>
-          <p className='card-text'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
-          </p>
-        </div>
-          <div className='menu-card'>
-          <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>PHO SA TE TOM VIEN</h3>
-          <p className='card-text'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
-          </p>
-        </div>
-          <div className='menu-card'>
-          <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>PHO SA TE GA</h3>
-          <p className='card-text'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
-          </p>
-         </div>
-          <div className='menu-card'>
-          <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>PHO TRON BO</h3>
-          <p className='card-text'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
-          </p>
-         </div>
-          <div className='menu-card'>
-          <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>PHO TRON VEGAN</h3>
-          <p className='card-text'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
-          </p>
-         </div>
+    </div>
    </div>
   </div>
  </div>
