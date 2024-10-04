@@ -7,32 +7,29 @@ function Home() {
       <div className='content-container'>
         <div className='content-card'>
           <div className='content-header'>
-            <h2>Welcome to The Delicious Ramen!</h2>
+            <h2>Pho Ba Ba Proudly Serve Authentic Vietnamese healthy cuisines</h2>
           </div>
           <p>
-            Ramen is a Japanese noodle soup dish. It consists of Chinese-style
-            wheat noodles served in a meat- or (occasionally) fish-based broth,
-            often flavored with soy sauce or miso, and uses toppings such as
-            sliced pork, dried seaweed, kamaboko, and green onions.
+             👵 Three Grandma’s Vietnamese Noodle Soup by @group.ysg 🇻🇳.
           </p>
         </div>
         <div className='content-card'>
           <div className='content-header'>
             <h2>Operating Hours</h2>
           </div>
-          <p>Sunday: 8am - 8pm</p>
-          <p>Monday: 6am - 6pm</p>
-          <p>Tuesday: 6am - 6pm</p>
-          <p>Wednesday: 6am - 6pm</p>
-          <p>Thursday: 6am - 10pm</p>
-          <p>Friday: 6am - 10pm</p>
-          <p>Saturday: 8am - 10pm</p>
+          <p>Sunday: 10am - 09:45pm</p>
+          <p>Monday: 10am - 09:45pm</p>
+          <p>Tuesday: 10am - 09:45pm</p>
+          <p>Wednesday: 10am - 09:45pm</p>
+          <p>Thursday: 10am - 09:45pm</p>
+          <p>Friday: 10am - 09:45pm</p>
+          <p>Saturday: 10am - 09:45pm</p>
         </div>
         <div className='content-card'>
           <div className='content-header'>
             <h2>Location</h2>
           </div>
-          <p>123 Avenue, Lugunica Kingdom</p>
+          <p>16 Outlets at JABODETABEK & SBY/p>
         </div>
       </div>
     </div>
@@ -48,63 +45,63 @@ function Menu() {
       <div className='menu-container'>
         <div className='menu-card'>
           <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>Hot ramen</h3>
+          <h3 className='card-title'>PHO BA BA DAC BIET</h3>
           <p className='card-text'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
           </p>
         </div>
         <div className='menu-card'>
           <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>Hot ramen</h3>
+          <h3 className='card-title'>PHO SIGNATURE</h3>
           <p className='card-text'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
           </p>
         </div>
         <div className='menu-card'>
           <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>Hot ramen</h3>
+          <h3 className='card-title'>PHO BO GA</h3>
           <p className='card-text'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
           </p>
         </div>
         <div className='menu-card'>
           <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>Hot ramen</h3>
+          <h3 className='card-title'>PHO BO TAI</h3>
           <p className='card-text'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
           </p>
         </div>
         <div className='menu-card'>
           <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>Hot ramen</h3>
+          <h3 className='card-title'>PHO BO CHIEN</h3>
           <p className='card-text'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
           </p>
         </div>
         <div className='menu-card'>
           <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>Hot ramen</h3>
+          <h3 className='card-title'>PHO BO VIEN</h3>
           <p className='card-text'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
           </p>
         </div>
         <div className='menu-card'>
           <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>Hot ramen</h3>
+          <h3 className='card-title'>PHO GA</h3>
           <p className='card-text'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
           </p>
         </div>
         <div className='menu-card'>
           <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>Hot ramen</h3>
+          <h3 className='card-title'>VEGAN PHO</h3>
           <p className='card-text'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
           </p>
         </div>
         <div className='menu-card'>
           <img src={ramen} alt='ramen' className='card-img' />
-          <h3 className='card-title'>Hot ramen</h3>
+          <h3 className='card-title'>PHO SATE BO</h3>
           <p className='card-text'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, rem?
           </p>
@@ -121,8 +118,8 @@ function Contact() {
         <h2>Contact Us</h2>
       </div>
       <div className='contact-container'>
-        <p>📞 123 456 789</p>
-        <p>🏠 Hollywood Boulevard 42, Los Angeles, USA</p>
+        <p>📞 0813 9993 0498</p>
+        <p>🏠 Gran Rubina Business Park Generali Tower Lt. 1 Unit B Kawasan Rasuna Epicentrum, Jl. H. R. Rasuna Said, RT.2/RW.5, Karet Kuningan, Kuningan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12960</p>
         <img className='location-img' src={location} alt='location' />
       </div>
     </div>
